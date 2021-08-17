@@ -36,9 +36,25 @@
       <option name="presentableId" value="Default" />
       <updated>1628917529326</updated>
     </task>
+    <task id="LOCAL-00001" summary="add scroll">
+      <created>1628917830378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628917830378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="add scroll" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="306" y="131" key="CommitChangelistDialog2" timestamp="1628917830222">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="306" y="131" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1628917830222" />
     <state x="554" y="365" key="Github.ShareDialog" timestamp="1628917550589">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -47,5 +63,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="324" y="168" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1628917560416" />
+    <state x="435" y="201" key="Vcs.Push.Dialog.v2" timestamp="1628917838141">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="435" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1628917838141" />
   </component>
 </project>
